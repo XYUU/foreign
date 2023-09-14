@@ -1,0 +1,3 @@
+googletrans==4.0.0-rc1
+whatsapp_api_client_python
+whatsapp_chatbot_python
